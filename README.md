@@ -260,15 +260,8 @@ Function Prototypes
 <details>
     <summary>Stephen Ohaeri</summary>
     <ul>
-    <li><a href="https://www.github.com/stephen4018">Github</a></li>
-    <li><a href="mailto:stephenohaeri4018@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/Slittvillain ">Github</a></li>
+    <li><a href="sbusisocjwara@gmail.com">e-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Jozinna Chioma</summary>
-    <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/jozinnachioma">Twitter</a></li>
-    <li><a href="mailto:chichipeace2000@yahoo.ca">e-mail</a></li>
-    </ul>
-</details>
+
